@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+body{
+    width:100%;
+    background:linear-gradient(to top, rgba(71, 67, 67, 0.5)50%,rgba(70, 64, 64, 0.5)50%),url(bello.jpeg);
+    background-position:center;
+    background-size:cover;
+    height:1000px;
+
+} 
+.par{
+    font-size: xx-large;
+    font-family: cursive;
+    
+}
